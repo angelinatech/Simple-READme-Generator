@@ -63,6 +63,7 @@ When a user enters their email address, it's added to the section of the README 
 When a user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README.
 
 The URL to a sample READme file is below:
+https://github.com/angelinatech/Simple-READme-Generator/blob/bf207733a29cbdcd82eb4dc4a03aec73a7e26283/output/README.md
 
 A video walkthrough of the working application can be seen below:
 
